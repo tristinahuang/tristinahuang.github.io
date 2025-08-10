@@ -1,6 +1,6 @@
 # Hsiao-Ting Huang
 Software Engineer @ MediaTek · M.S. ECE (University of Washington)  
-Interests: AI Security, Cyber-Physical Systems, Trustworthy Machine Learning, Embedded Systems
+Interests: AI Security, Trustworthy Machine Learning, Embedded Systems
 
 ---
 
