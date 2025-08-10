@@ -1,47 +1,84 @@
-# Hsiao-Ting Huang
+# Portfolio
 
-<table>
-<tr>
-<td width="250">
-
-<img src="profile.jpg" width="200" alt="Hsiao-Ting Huang">
-
-**Email:** [tristina.hth@gmail.com](mailto:tristina.hth@gmail.com)  
-**LinkedIn:** [linkedin.com/in/hsiao-ting-huang](https://www.linkedin.com/in/hsiao-ting-huang)  
-**Google Scholar:** [Your Google Scholar Link]  
-**GitHub:** [github.com/tristinahuang](https://github.com/tristinahuang)
-
-</td>
-<td>
-
-## About Me
-I am a software engineer with a strong foundation in machine learning, computer vision, and time-series modeling, combined with practical experience in embedded systems and modem technologies.  
-My goal is to develop AI-enabled systems that are **reliable, robust, and secure** in real-world environments, particularly in scenarios where sensing, decision-making, and actuation are tightly coupled.
+**Software Engineer @ MediaTek · M.S. ECE (University of Washington)**  
+**Interests:** AI Security · Cyber-Physical Systems · Trustworthy ML · Embedded Systems
 
 ---
 
-## Selected Projects & Achievements
+## Selected Projects & Results
 
-- **Dense Video Captioning with PDVC** – Led a project that placed **Top 3** in the UW ECE Capstone competition. Developed an end-to-end pipeline for temporal event proposal generation and captioning on untrimmed videos.
-- **Spatial-Temporal Forecasting** – Designed a deep learning model for traffic flow prediction, ranking in the **Top 7%** globally in the KDD Cup competition.
-- **Privacy-Preserving ML for Health Data** – Co-authored a paper published in **ACM/IMS Transactions on Data Science**, applying statistical learning techniques to sensitive biomedical datasets.
-- **4G/5G Embedded Modem Features** – At MediaTek, implemented and optimized modem functionalities under real-world constraints, improving feature performance and resource efficiency.
+<div class="cards">
+
+  <div class="card">
+    <h3>Dense Video Captioning (PDVC)</h3>
+    <p>Built an end-to-end pipeline for temporal event proposals and captioning on untrimmed videos.</p>
+    <p><span class="badge">Top 3 · UW ECE Capstone</span></p>
+  </div>
+
+  <div class="card">
+    <h3>Spatial-Temporal Forecasting</h3>
+    <p>Designed a deep model for traffic flow prediction with strong generalization across sensors/time.</p>
+    <p><span class="badge">Top 7% · KDD Cup</span></p>
+  </div>
+
+  <div class="card">
+    <h3>Privacy-Preserving ML (Health Data)</h3>
+    <p>Co-authored a study applying statistical learning to sensitive biomedical datasets.</p>
+    <p><span class="badge">ACM/IMS TDS</span></p>
+  </div>
+
+  <div class="card">
+    <h3>4G/5G Embedded Modem Features</h3>
+    <p>Implemented and optimized modem functionalities under strict resource & latency constraints.</p>
+    <p><span class="badge">MediaTek</span></p>
+  </div>
+
+</div>
 
 ---
 
 ## Skills
-- **Machine Learning & Data Science**: Computer Vision, Time-Series Forecasting, Privacy-Preserving ML
-- **Systems & Implementation**: Embedded Systems, Modem Technology Development, Algorithm Optimization
-- **Programming**: Python, C/C++, PyTorch, TensorFlow
+**ML/Data:** Computer Vision, Time-Series Forecasting, Privacy-Preserving ML  
+**Systems:** Embedded Systems, Modem Technology, Algorithm Optimization  
+**Programming:** Python, C/C++, PyTorch, TensorFlow
 
 ---
 
 ## Looking Ahead
-I am actively expanding my expertise in:
-- Robust AI perception under sensor perturbations
-- Secure and efficient deployment of ML models on embedded devices
-- Evaluation of AI model reliability in safety-critical systems
+- Robust AI perception under sensor perturbations  
+- Secure & efficient ML on embedded/edge devices  
+- Reliability evaluation in safety-critical systems
 
-</td>
-</tr>
-</table>
+---
+
+## Contact
+- **Email:** <a href="mailto:tristina.hth@gmail.com">tristina.hth@gmail.com</a>  
+- **LinkedIn:** <a href="https://www.linkedin.com/in/hsiao-ting-huang">linkedin.com/in/hsiao-ting-huang</a>  
+- **Google Scholar:** <a href="YOUR_SCHOLAR_URL">Your Scholar</a>  
+- **GitHub:** <a href="https://github.com/tristinahuang">github.com/tristinahuang</a>
+
+<!--minimal -->
+<style>
+  .cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 16px;
+    margin: 12px 0 4px 0;
+  }
+  .card{
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 16px;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,.06);
+  }
+  .card h3{ margin-top: 0; margin-bottom: 8px; }
+  .badge{
+    display: inline-block;
+    font-size: 12px;
+    padding: 2px 10px;
+    border: 1px solid #d1d5db;
+    border-radius: 999px;
+    background: #f9fafb;
+  }
+</style>
