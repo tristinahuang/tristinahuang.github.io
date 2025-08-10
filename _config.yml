@@ -1,3 +1,9 @@
 title: Hsiao-Ting Huang
 description: AI Security · Embedded Systems · Trustworthy ML
 theme: jekyll-theme-minimal
+
+# Profile
+logo: /assets/img/profile.jpg
+
+show_downloads: false
+
