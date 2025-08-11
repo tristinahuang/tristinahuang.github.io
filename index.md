@@ -5,7 +5,7 @@
 
 I am a software engineer with experience in machine learning, computer vision, and embedded systems. My work spans from building AI models for perception and forecasting to optimizing algorithms for 4G/5G modem features. I am passionate about developing trustworthy, robust, and efficient AI solutions, especially in safety-critical and resource-constrained environments.  
 
-[📄 View My Resume (PDF)](resume.pdf)
+[📄 View My Resume (PDF)](assets/doc/resume.pdf)
 
 ---
 
