@@ -1,7 +1,7 @@
 # Portfolio
 
 **Software Engineer @ MediaTek · M.S. ECE (University of Washington)**  
-**Interests:** AI Security · Cyber-Physical Systems · Trustworthy ML · Embedded Systems
+**Interests:** AI Security · Trustworthy ML · Embedded Systems
 
 ---
 
