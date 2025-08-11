@@ -45,7 +45,7 @@ I am a software engineer with a strong background in machine learning, computer 
 ---
 
 ## Skills
-**ML/Data:** Computer Vision, Time-Series Forecasting, NLP, Privacy-Preserving ML  
+**ML/Data:** Computer Vision, Time-Series Forecasting, NLP 
 **Systems:** Embedded Systems, Modem Technology, Algorithm Optimization  
 **Programming:** Python, C/C++, PyTorch, TensorFlow
 
