@@ -2,6 +2,7 @@
 
 **Software Engineer @ MediaTek · M.S. ECE (University of Washington)**  
 **Interests:** AI Security · Cyber-Physical Systems · Trustworthy ML · Embedded Systems
+description: AI Security · Embedded Systems · Trustworthy ML · ✉️ tristina.hth@gmail.com · 🔗 linkedin.com/in/hsiao-ting-huang
 
 ---
 
